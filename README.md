@@ -61,3 +61,5 @@ sh
 Este projeto é **open-source** e está disponível sob a **licença MIT**. Sinta-se à vontade para contribuir, modificar e aprimorar! 🌟
 
 💡 *Dúvidas ou sugestões? Envie um pull request ou entre em contato!*
+
+Acesse esse projeto em https://07castiel.github.io/Preco-Certo-1.2/
